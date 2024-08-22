@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
   [224×224 (15.6G)](https://pan.baidu.com/s/1W9T7i5sKo97i-COfktWrAg?pwd=AAAI)
 
-- **TBD**: Datasets V2.0 will be released at Google Drive and Baidu Drive before **December 19, 2024**.
+- **TBD**: Datasets V2.0 will be released at Google Drive and Baidu Drive before December 19, 2024.
 
 - Dataset Directory: ` datasets/`
 
@@ -64,7 +64,9 @@ python main.py
 
 ### Data Examples
 
-<img src=".\imgs\appendix.png" alt="appendix" height="500" />
+<img src="https://ice.frostsky.com/2024/08/22/994e02007d47c474045cdd598afb0982.png" alt="appendix" height="500" />
+
+
 
 ### Citation
 
