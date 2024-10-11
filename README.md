@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 - **Datasets V1.0 is released at Baidu Drive** (2024.9.5)
 
-- **Datasets V1.0 is released at Baidu Drive** (2024.10.11)
+- **Datasets V2.0 is released at Baidu Drive** (2024.10.11)
 
 - [512×512 (79.3G)](https://pan.baidu.com/s/16MXSMPtWv0KaHcwU6Ij46Q?pwd=TQA2)
 
