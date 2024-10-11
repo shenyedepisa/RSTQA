@@ -31,13 +31,13 @@ pip install -r requirements.txt
 
 ### Download Datasets
 
-- **Datasets V1.0 is released at Baidu Drive**
+- **Datasets V1.0 is released at Baidu Drive** (2024.9.5)
 
-  [512×512 (77.6G)](https://pan.baidu.com/s/1O_SSvcjyUYVnn65iRxQpIA?pwd=AAAI)
+- **Datasets V1.0 is released at Baidu Drive** (2024.10.11)
 
-  [224×224 (15.6G)](https://pan.baidu.com/s/1W9T7i5sKo97i-COfktWrAg?pwd=AAAI)
+- [512×512 (79.3G)](https://pan.baidu.com/s/16MXSMPtWv0KaHcwU6Ij46Q?pwd=TQA2)
 
-- **TBD**: Datasets V2.0 will be released at Google Drive and Baidu Drive before December 19, 2024.
+  [224×224 (15.9G)](https://pan.baidu.com/s/1O1T3qF-bY2X_yj0MkCsTow?pwd=TQA2)
 
 - Dataset Directory: ` datasets/`
 
