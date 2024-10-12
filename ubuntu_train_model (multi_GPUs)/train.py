@@ -370,16 +370,16 @@ def train(_config, train_dataset, val_dataset, test_dataset, seq_Encoder):
                 step=epoch,
             )
         torch.save(model.state_dict(), f"{saveDir}mask_lastValModel.pth")
-        test_model(
-            _config,
-            model,
-            test_loader,
-            len(test_dataset),
-            logger,
-            wandb_epoch,
-            epoch,
-            num_ddp,
-        )
+    test_model(
+        _config,
+        model,
+        test_loader,
+        len(test_dataset),
+        logger,
+        wandb_epoch,
+        num_epochs,
+        num_ddp,
+    )
 
     if wandb_epoch is not None:
         wandb_epoch.finish()

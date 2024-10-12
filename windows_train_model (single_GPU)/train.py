@@ -400,16 +400,16 @@ def train(_config, train_dataset, val_dataset, test_dataset, seq_Encoder, device
                 step=epoch,
             )
         torch.save(model.state_dict(), f"{saveDir}lastValModel.pth")
-        test_model(
-            _config,
-            model,
-            test_loader,
-            len(test_dataset),
-            device,
-            logger,
-            wandb_epoch,
-            epoch,
-        )
+    test_model(
+        _config,
+        model,
+        test_loader,
+        len(test_dataset),
+        device,
+        logger,
+        wandb_epoch,
+        num_epochs,
+    )
     wandb_epoch.finish()
     end = time.time()
     logger.info(f"time used: {end - start} s")
