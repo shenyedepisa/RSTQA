@@ -14,9 +14,9 @@ def config():
 
     balance = False
     normalize = False
-    answer_number = 54
+    answer_number = 53
     if balance:
-        answer_number = 48
+        answer_number = 53
 
     opts = True
     one_step = False
