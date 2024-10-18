@@ -35,9 +35,7 @@ pip install -r requirements.txt
 
 - **Datasets V2.0 is released at Baidu Drive** (2024.10.11)
 
-- [512×512 (79.3G)](https://pan.baidu.com/s/16MXSMPtWv0KaHcwU6Ij46Q?pwd=TQA2)
-
-  [224×224 (15.9G)](https://pan.baidu.com/s/1O1T3qF-bY2X_yj0MkCsTow?pwd=TQA2)
+  
 
 - Dataset Directory: ` datasets/`
 
